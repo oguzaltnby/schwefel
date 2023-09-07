@@ -12,7 +12,7 @@ const theme: Themes = {
       body: "#000",
       scrollHandle: "#19252E",
       scrollHandleHover: "#162028",
-      primary: "#FFFACDS",
+      primary: "#FFFACD",
       secondary: "#8B658B",
       text: {
         100: "#cbd5e1",

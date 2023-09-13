@@ -1,4 +1,5 @@
 import About from "./commands/About";
+import Deneme from "./commands/Deneme";
 import Clear from "./commands/Clear";
 import Echo from "./commands/Echo";
 import Education from "./commands/Education";

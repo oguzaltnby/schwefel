@@ -35,6 +35,7 @@ const Output: React.FC<Props> = ({ index, cmd }) => {
     <OutputContainer data-testid={index === 0 ? "latest-output" : null}>
       {
         {
+          deneme: <Deneme />,
           about: <About />,
           clear: <Clear />,
           echo: <Echo />,

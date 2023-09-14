@@ -24,8 +24,8 @@ const theme: Themes = {
       body: "#000",
       scrollHandle: "#19252E",
       scrollHandleHover: "#162028",
-      primary: "#75c5c7",
-      secondary: "#4748a5",
+      primary: "#00ffff",
+      secondary: "#1035ac",
       text: {
         100: "#00ff00",
         200: "#00ff10",

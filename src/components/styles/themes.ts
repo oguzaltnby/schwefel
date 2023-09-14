@@ -8,6 +8,18 @@ const theme: Themes = {
   dark: {
     id: "T_001",
     name: "dark",
+    /* colors: {
+      body: "#000",
+      scrollHandle: "#19252E",
+      scrollHandleHover: "#162028",
+      primary: "#FFFACD",
+      secondary: "#8B658B",
+      text: {
+        100: "#cbd5e1",
+        200: "#B2BDCC",
+        300: "#64748b",
+      },
+    }, */
     colors: {
       body: "#000",
       scrollHandle: "#19252E",
